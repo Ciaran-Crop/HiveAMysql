@@ -1,0 +1,2 @@
+1,Default Hive database,hdfs://10.0.4.10:9000/user/hive/warehouse,default,public,ROLE
+21,null,hdfs://VM-4-10-centos:9000/user/hive/warehouse/to_hive.db,to_hive,root,USER
